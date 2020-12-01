@@ -1,0 +1,10 @@
+﻿  binaryheapTest.cpp
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab3\binaryheap\Heap.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab3\binaryheap\Heap.cpp(13,10): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab3\binaryheap\Heap.cpp(26,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab3\binaryheap\Heap.cpp(30,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab3\binaryheap\Heap.cpp(53,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab3\binaryheap\Heap.cpp(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab3\binaryheap\Heap.cpp(113,12): warning C4018: <: несоответствие типов со знаком и без знака
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\╤хЁухщ\Desktop\╙╨╬╩╚ ўрёЄ№ 2\└ш╤─\lab3\binaryheap\Debug\binaryheapTest.lib ш юс·хъЄ C:\Users\╤хЁухщ\Desktop\╙╨╬╩╚ ўрёЄ№ 2\└ш╤─\lab3\binaryheap\Debug\binaryheapTest.exp
+  binaryheapTest.vcxproj -> C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab3\binaryheap\Debug\binaryheapTest.dll
